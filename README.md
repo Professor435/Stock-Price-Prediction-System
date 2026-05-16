@@ -113,4 +113,4 @@ MIT License — feel free to use, modify, and distribute.
 
 The app simulates realistic stock price movements and AI predictions using mathematical models — it's designed to look and feel like a real trading platform!
 
-for more contact professorshami435@gmail.com   (any language or FYP)
+for more contact professorshami435@gmail.com   ( in any language or FYP)
