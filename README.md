@@ -9,7 +9,7 @@ I've built you a **complete, production-ready Stock Price Prediction System** �
 
 Simply download and open the file in any browser. No server required — it runs entirely client-side.
 
----
+--- 
  
 ## ✨ Features Included
 
